@@ -1,4 +1,4 @@
-# Bank-Loan-Analysis
+## Bank-Loan-Analysis
 - This project analyzes bank loan data using MySQL to derive insights into loan disbursement, repayment patterns, and risk factors.
 - The analysis aims to help the bank optimize its loan approval process and minimize default risks.
 
@@ -9,7 +9,7 @@ The dataset contains comprehensive information about bank loans, including:
 - Credit history (delinquencies, credit inquiries, public records)
 - Loan performance (loan status, payments, recoveries)
 
-# Key Analyses
+## Key Analyses
 1. Loan approval factors and their correlation with loan performance.
 2. Default risk analysis based on borrower characteristics and credit history.
 3. Repayment patterns and early indicators of potential defaults.
