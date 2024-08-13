@@ -1,4 +1,4 @@
-#🏦 Bank Loan Analytics Project
+# 🏦 Bank Loan Analytics Project
 This project focuses on analyzing bank loan data to derive actionable insights and support decision-making processes. The project is structured around three key tools: Excel, Power BI, and MySQL, each playing a critical role in different phases of the analysis.
 
 Key Components:
